@@ -2,6 +2,15 @@
 * Week 2
 	* [Savoring](rewirements/savoring.png)
 	* [Gratitude](rewirements/gratitude.png)
+* Week 3
+	* [Random Acts of Kindness](rewirements/kindness.png)
+	* [Social Connection](rewirements/social.png)
+* Week 4
+	* [Exercise](rewirements/exercise.png)
+	* [Sleep](rewirements/sleep.png)
+* Week 5
+	* [Meditation](rewirements/meditation.png)
+	* [Gratitude Letter/Visit](rewirements/gratitude_letter.png)
 
 # Week 1
 ## Key Concepts
