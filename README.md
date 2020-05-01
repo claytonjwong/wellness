@@ -1,3 +1,8 @@
+# Resources
+* Week 2
+	* [Savoring](rewirements/savoring.png)
+	* [Gratitude](rewirements/gratitude.png)
+
 # Week 1
 ## Key Concepts
 * Happiness Can Be Learned
