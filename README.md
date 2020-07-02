@@ -12,7 +12,7 @@
 	* [Meditation](rewirements/meditation.png)
 	* [Gratitude Letter/Visit](rewirements/gratitude_letter.png)
 
-# Week 1
+# Week 1: Introduction
 ## Key Concepts
 * Happiness Can Be Learned
 * G.I. Joe Fallacy
@@ -50,7 +50,7 @@ To identify your Character Strengths, take the online test available on the [VIA
 * Self-Regulation
 * Gratitude
 
-# Week 2
+# Week 2: Misconceptions About Happiness
 ## Key Concepts
 * Our minds strongest intuitions are often wrong
 * Understand that simply knowing is not enough to change behavior
@@ -70,6 +70,58 @@ To identify your Character Strengths, take the online test available on the [VIA
 * Good grades
 	* [Accuracy and artifact: Reexamining the intensity bias in affective forecasting](docs/Accuracy_and_Artifact_Reexamining_the_Intensity_Bi.pdf)
 
+# Week 3: Why Our Expectations Are So Bad
+## Annoying Features of the Mind
+1. Our minds' strongest intuitions are often totally wrong
+2. Our minds don't think in terms of absolutes, our minds judge relative to reference points
+3. Our minds are built to get used to stuff
+4. We don't realize that our minds are built to get used to stuff
+
+## Hedonic Adaptation
+* The process of becoming accustomed to a positive or negative stimulus such that the emotional effects of that simulus are attenuated over time
+
+## Impact Bias
+* The tendency to over-estimate the emotional impact of a future event both in terms of intensity and its duration
+
+# Week 4: How Can We Overcome Our Biases
+## Rethink "Awesome Stuff"
+* Investing in experiences makes us happier than investing in stuff
+	* [To Do or to Have? That Is the Question.](https://www.researchgate.net/publication/5634549_To_Do_or_to_Have_That_Is_the_Question)
+	* [Waiting for Merlot: Anticipatory Consumption of Experiential and Material Purchases.](https://journals.sagepub.com/doi/pdf/10.1177/0956797614546556)
+	* [The hidden cost of value-seeking: People do not accurately forecast the economic benefits of experiential purchases.](https://www.researchgate.net/publication/271992138_The_hidden_cost_of_value-seeking_People_do_not_accurately_forecast_the_economic_benefits_of_experiential_purchases)
+	* [Stigmatizing materialism: On stereotypes and impressions of materialistic and experiential pursuits.](https://journals.sagepub.com/doi/pdf/10.1177/0146167210362790)
+	* [The mediators of experiential purchases: Determining the impact of psychological needs satisfaction and social comparison.](https://www.tandfonline.com/doi/full/10.1080/17439760903270993)
+
+## Thwart Hedonic Adaptation
+* Savoring
+	* [Does savoring increase happiness? A daily diary study.](https://www.tandfonline.com/doi/abs/10.1080/17439760.2012.671345)
+	* [The costs and benefits of writing, talking, and thinking about life’s triumphs and defeats.](http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/LSD2006.pdf)
+* Negative Visualization
+	* [It’s a Wonderful Life: Mentally Subtracting Positive Events Improves People’s Affective States, Contrary to Their Affective Forecasts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2746912/?utm_source=List&utm_campaign=3a7e720154-WBW+(MailChimp)&utm_medium=email&utm_term=0_5b568bad0b-3a7e720154-42565081)
+* Make this day your last
+	* [Looking to the future to appreciate the present: The benefits of perceived temporal scarcity.](https://journals.sagepub.com/doi/pdf/10.1111/j.1467-9280.2008.02231.x)
+* Gratitude
+	* [Counting Blessings Versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life](https://greatergood.berkeley.edu/pdfs/GratitudePDFs/6Emmons-BlessingsBurdens.pdf)
+	* [Positive Psychology Progress: Empirical Validation of Interventions.](https://www.researchgate.net/publication/7701091_Positive_Psychology_Progress_Empirical_Validation_of_Interventions)
+	* [Linking financial distress to marital quality: The intermediary roles of demand/withdraw and spousal gratitude expressions](https://gratefulness.org/content/uploads/2015/11/UofG-Study.pdf)
+	* [A Little Thanks Goes a Long Way: Explaining Why Gratitude Expressions Motivate Prosocial Behavior](https://pubmed.ncbi.nlm.nih.gov/20515249/)
+
+## Reset Your Reference Points
+* [Consuming experience: Why affective forecasters overestimate comparative value](https://www.sciencedirect.com/science/article/abs/pii/S0022103110001617)
+* Interrupt Consumption
+	* [INTERRUPTED CONSUMPTION: ADAPTATION AND THE DISRUPTION OF HEDONIC EXPERIENCE](http://pages.stern.nyu.edu/~lnelson0/Nelson%20and%20Meyvis.pdf)
+	* [Enhancing the Television-Viewing Experience through Commercial Interruptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.595.7861&rep=rep1&type=pdf)
+
+# Week 5: Stuff that Really Makes Us Happy
+## Good Job
+
+## Good Grades
+
+
+## Kindness
+* We are happier spending money on others than ourselves.  The amount we spend on others is irrelevant towards happiness.
+
+## Social Connection
 
 # Rewirements
 ## Week 2
