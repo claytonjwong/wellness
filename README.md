@@ -109,20 +109,6 @@ To identify your Character Strengths, take the online test available on the [VIA
 
 ## Social Connection
 
-# Re
-* Week 2
-	* [Savoring]
-	* [Gratitude]
-* Week 3
-	* [Random Acts of Kindness]
-	* [Social Connection]
-* Week 4
-	* [Exercise]
-	* [Sleep]
-* Week 5
-	* [Meditation]
-	* [Gratitude Letter/Visit]
-
 
 # Rewirements
 ## Week 2
