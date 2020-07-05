@@ -99,16 +99,63 @@ To identify your Character Strengths, take the online test available on the [VIA
 	* [Enhancing the Television-Viewing Experience through Commercial Interruptions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.595.7861&rep=rep1&type=pdf)
 
 # Week 5: Stuff that Really Makes Us Happy
-## Good Job
+## Better Wanting: Part 1
+### Signature Strengths (in a job rather than money)
+* [Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment](https://www.amazon.com/Authentic-Happiness-Psychology-Potential-Fulfillment/dp/0743222989)
+* [Positive Psychology Progress: Empirical Validation of Interventions](http://www.psykologtidsskriftet.no/pdf/2005/874-884.pdf)
+* [ My better self: Using strengths at work and work productivity, organizational citizenship behavior, and satisfaction](http://journals.sagepub.com/doi/pdf/10.1177/0894845316634056)
+* [When the job is a calling: The role of applying one’s signature strengths at work](http://www.tandfonline.com/doi/full/10.1080/17439760.2012.702784?scroll=top&needAccess=true)
 
-## Good Grades
+### Flow (in a job rather than Money)
+* [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)
+* [Optimal Experience: Psychological Studies of Flow in Consciousness](https://books.google.com/books?id=tdHLCgAAQBAJ&lr=&source=gbs_navlinks_s)
+* [If we are so rich, why aren’t we happy](docs/rich_but_not_happy.pdf)
 
+### Growth Mindset (rather than Good Grades)
+* [Effects of externally mediated rewards on intrinsic motivation](http://selfdeterminationtheory.org/SDT/documents/1971_Deci.pdf)
+* [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/ref=sr_1_1?s=books&ie=UTF8&qid=1487696371&sr=1-1&refinements=p_27%3ACarol+Dweck)
+* [Clarifying Achievement Goals and Their Impact](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.5136&rep=rep1&type=pdf)
+* [Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention](http://mtoliveboe.org/cmsAdmin/uploads/blackwell-theories-of-intelligence-child-dev-2007.pdf)
+* [Why do beliefs about intelligence influence learning success? A social cognitive neuroscience model](https://www.researchgate.net/profile/Jennifer_Mangels2/publication/6417114_Why_do_beliefs_about_intelligence_influence_learning_success_A_social_cognitive_neuroscience_model/links/02e7e538bf538a4182000000.pdf)
 
-## Kindness
-* We are happier spending money on others than ourselves.  The amount we spend on others is irrelevant towards happiness.
+## Better Wanting: Part 2 & 3
+### Kindness
+* [Happy people become happier through kindness: A counting kindnesses intervention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1820947/)
+* [Pursuing happiness: The architecture of sustainable change](http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/LSS2005.pdf)
+* [Happy Money: The Science of Happier Spending](https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075)
+* [Spending money on others promotes happiness](https://www.researchgate.net/profile/Lara_Aknin/publication/5494996_Spending_Money_on_Others_Promotes_Happiness/links/0c960536bc4c368a69000000.pdf)
+* [Prosocial spending and well-being: Cross-cultural evidence for a psychological universal](https://www.apa.org/pubs/journals/releases/psp-104-4-635.pdf)
 
-## Social Connection
+### Social Connection
+* [The funds, friends, and faith of happy people](http://www.davidmyers.org/davidmyers/assets/Funds.friends.faith.pdf)
+* [Very happy people](http://journals.sagepub.com/doi/pdf/10.1111/1467-9280.00415)
+* [Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want](https://www.amazon.com/Mindwise-Misunderstand-Others-Think-Believe/dp/030774356X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Mistakenly seeking solitude](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.705.9100&rep=rep1&type=pdf)
+* [Shared experiences are amplified](http://journals.sagepub.com/doi/pdf/10.1177/0956797614551162)
 
+### Time Affluence
+* [Valuing time over money is associated with greater happiness](http://ubc-emotionlab.ca/wp-content/uploads/2011/12/Whillans-Weidman-Dunn-2016-Valuing-Time-Over-Money-Increases-Happiness.pdf)
+* [People who choose time over money are happier](http://journals.sagepub.com/doi/pdf/10.1177/1948550616649239)
+* [The pursuit of happiness: Time, money, and social connection](http://d1c25a6gwz7q5e.cloudfront.net/papers/download/011911_Mogilner2010TimeMoneyandSocialConnection.pdf)
+
+### Mind Control (via Meditation)
+* [A wandering mind is an unhappy mind](http://www.danielgilbert.com/KILLINGSWORTH%20&%20GILBERT%20(2010).pdf)
+* [Wandering minds: The default network and stimulus-independent thought](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1821121/)
+* [Meditation experience is associated with differences in default mode network activity and connectivity](https://www.ncbi.nlm.nih.gov/pubmed/22114193)
+* [Open hearts build lives: positive emotions, induced through loving-kindness meditation, build consequential personal resources](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156028/)
+* [Mindfulness practice leads to increases in regional brain gray matter density](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/?__hstc=133243537.972fdd7a7debc8575bac5a80cf7e1683.1478390400069.1478390400070.1478390400071.1&__hssc=133243537.1.1478390400072&__hsfp=1773666937)
+* [Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering](http://journals.sagepub.com/doi/pdf/10.1177/0956797612459659)
+* [Loving-kindness meditation increases social connectedness](https://contextualscience.org/system/files/Hutcherson,2008.pdf)
+
+### Healthy Practices - Exercise
+* [Exercise treatment for major depression: maintenance of therapeutic benefit at 10 months](http://www.hibody.co.uk/Exercise%20treatment%20for%20major%20depression.pdf)
+* [Be smart, exercise your heart: exercise effects on brain and cognition](https://www.nature.com/articles/nrn2298.pdf)
+
+### Healthy Practices - Sleep
+* [Cumulative sleepiness, mood disturbance and psychomotor vigilance performance decrements during a week of sleep restricted to 4-5 hours per night](https://www.ncbi.nlm.nih.gov/pubmed/9231952)
+* [Practice with sleep makes perfect: sleep-dependent motor skill learning](https://walkerlab.berkeley.edu/reprints/Walker%20et%20al._Neuron_2002.pdf)
+* [Sleep inspires insight](https://msu.edu/course/psy/401/Readings/WK9.PresentA.Wagner%20et%20al.%20(2004).pdf)
+* [Lose Sleep, Lose Your Mind and Health](http://big.assets.huffingtonpost.com/SleepDeprivation_0.png)
 
 # Rewirements
 ## Week 2
